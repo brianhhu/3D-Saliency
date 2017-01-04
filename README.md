@@ -3,7 +3,7 @@ Project code associated with Hu_etal '16 paper on 3D proto-object based saliency
 
 ### Introduction
 
-The program is written in MATLAB (Mathworks). The code is known to run on R2014a, but should also be compatible with other versions. The main program function is **batchSaliency_depth_proto.m**. Running this program with the appropiate input arguments will compute a saliency map for each input image. For more details about the model, please see:
+The program is written in MATLAB (Mathworks). The code is known to run on R2014a, but should also be compatible with other versions. The main program function is **demo.m**. Running this program will compute a saliency map for each input image. You can change the dataset (see **Eyetracking Datasets** section below for more information) as well as the number of sample images from each dataset. For more details about the model, please see:
 
     @Article{Hu_etal16a,
       Title                    = {A proto-object based saliency model in three-dimensional space},
