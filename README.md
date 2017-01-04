@@ -32,4 +32,6 @@ Evaluating the performance of the saliency model with and without depth informat
 
 ### Miscellaneous
 
+Papers detailing each dataset, as well as our saliency model, can be found in the **resources** directory.
+
 If you have any questions, please feel free to contact me at bhu6 (AT) jhmi (DOT) edu.
