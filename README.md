@@ -10,7 +10,7 @@ The program is written in MATLAB (Mathworks). The code is known to run on R2014a
       Author                   = {Hu, Brian and Kane-Jackson, Ralinkae and Niebur, Ernst},
       Journal                  = {Vision Research},
       Year                     = {2016},
-      Pages                    = {42--49},
+      Pages                    = {42-49},
       Volume                   = {119},
       Doi                      = {10.1016/j.visres.2015.12.004},
     }
