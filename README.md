@@ -1,6 +1,10 @@
 # 3D Visual Saliency
 Project code associated with Hu_etal '16 paper on 3D proto-object based saliency
 
+<p align="center">
+  <img src="http://brianhhu.github.io/img/Fig_3DSaliency.png" alt="Sample saliency map"/>
+</p>
+
 ### Introduction
 
 The program is written in MATLAB (Mathworks). The code is known to run on R2014a, but should also be compatible with other versions. The main program function is **demo.m**. Running this program will compute a saliency map for each input image. In the code, you can change the dataset (see **Eyetracking Datasets** section below for more information) as well as the number of sample images from each dataset. For more details about the model, please see:
