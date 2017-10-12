@@ -10,13 +10,13 @@ Project code associated with Hu_etal '16 paper on 3D proto-object based saliency
 The program is written in MATLAB (Mathworks). The code is known to run on R2014a, but should also be compatible with other versions. The main program function is **demo.m**. Running this program will compute a saliency map for each input image. In the code, you can change the dataset (see **Eyetracking Datasets** section below for more information) as well as the number of sample images from each dataset. For more details about the model, please see:
 
     @Article{Hu_etal16a,
-      Title                    = {A proto-object based saliency model in three-dimensional space},
-      Author                   = {Hu, Brian and Kane-Jackson, Ralinkae and Niebur, Ernst},
-      Journal                  = {Vision Research},
-      Year                     = {2016},
-      Pages                    = {42-49},
-      Volume                   = {119},
-      Doi                      = {10.1016/j.visres.2015.12.004},
+        Title                    = {A proto-object based saliency model in three-dimensional space},
+        Author                   = {Hu, Brian and Kane-Jackson, Ralinkae and Niebur, Ernst},
+        Journal                  = {Vision Research},
+        Year                     = {2016},
+        Pages                    = {42-49},
+        Volume                   = {119},
+        Doi                      = {10.1016/j.visres.2015.12.004},
     }
 
 
